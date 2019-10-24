@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741946191840",
+    "firebase_url": "https://android-mlkit-sampleapp.firebaseio.com",
+    "project_id": "android-mlkit-sampleapp",
+    "storage_bucket": "android-mlkit-sampleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741946191840:android:7cff19519b1b6a21fa4585",
+        "android_client_info": {
+          "package_name": "com.asha.android.android_mlkit_sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741946191840-qfkmer80nd6r7k1hs2bsk789rhenp141.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdzFzeq8YNGahrXgc8X1xc10-Yv9llrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741946191840-qfkmer80nd6r7k1hs2bsk789rhenp141.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
